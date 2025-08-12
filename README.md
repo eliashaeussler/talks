@@ -6,9 +6,8 @@ year and event name. If available, I use shortcodes as directory names.
 
 ## Talks
 
-### 2025
-
-* [TYPO3 Developer Days #t3dd25](2025/t3dd25)
+Please visit [talks.haeussler.dev](https://talks.haeussler.dev) to get
+an overview about all available talks.
 
 ## License
 
