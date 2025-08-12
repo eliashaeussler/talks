@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: Talks by Elias Häußler
+description: A collection of my talks & presentations.
+github:
+  is_project_page: false
